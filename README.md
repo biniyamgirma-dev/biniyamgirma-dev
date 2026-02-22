@@ -5,13 +5,14 @@
 
 ## 📬 Contact & Connect
 
-**📧 Email:** biniyamgirma.dev@gmail.com
-
 <p align="left">
+  <a href="mailto:software.bini30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://t.me/bin30g">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/biniyamgirma-dev">
+  <a href="https://www.linkedin.com/in/biniyam-girma-swe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/biniyamgirma-dev">
@@ -62,9 +63,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bini-30&show_icons=true&theme=tokyonight" />
+![Biniyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biniyamgirma-dev&show_icons=true&theme=tokyonight)
 &nbsp;&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamgirma-dev&layout=compact&theme=tokyonight" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamgirma-dev&layout=compact&theme=tokyonight)
 
 </div>
 
